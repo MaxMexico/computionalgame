@@ -19,6 +19,9 @@ This project is a personal note and task manager designed to assist students in 
 - Edit notes.
 - Sort tasks by priority.
 
-# Hope this manager will help as much as it helps me everyday 
+### Hope this manager will help as much as it helps me everyday 
+### Have fun !
+## 🇲🇽 ¡Viva México! 🇲🇽
 
-## Have fun 
+By MaxMexico 
+2023
