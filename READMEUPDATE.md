@@ -5,6 +5,7 @@ I have completely changed my plans! After some consideration, I found that the i
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [How to use it](#How to use it)
 
 ## Introduction
 
@@ -18,6 +19,10 @@ This project is a personal note and task manager designed to assist students in 
 - Remove notes and tasks by criteria.
 - Edit notes.
 - Sort tasks by priority.
+
+  ## How to use it
+
+The note and task manager is very intuitive, all you have to do is launch the code and follow the terminal's indications according to the menu or the various requests
 
 ### Hope this manager will help as much as it helps me everyday 
 ### Have fun !
