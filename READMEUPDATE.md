@@ -5,7 +5,7 @@ I have completely changed my plans! After some consideration, I found that the i
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [How to use it](#howtouseit)
+- [How to use it](#how_to_use_it)
 
 ## Introduction
 
