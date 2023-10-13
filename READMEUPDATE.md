@@ -5,10 +5,10 @@ I have completely changed my plans! After some consideration, I found that the i
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [How to use it](#how_to_use_it)
-- [How the user execeute it](#how_the_user_execute_it)
-- [Technical dependencies](#technical_dependencies)
-- [Test Plan](#Test_plan)
+- [How to use it](#how-to-use-it)
+- [How the user execeute it](#how-the-user-execute-it)
+- [Technical dependencies](#technical-dependencies)
+- [Test Plan](#Test-plan)
 
 
 
