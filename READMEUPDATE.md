@@ -20,7 +20,7 @@ This project is a personal note and task manager designed to assist students in 
 - Edit notes.
 - Sort tasks by priority.
 
-  ## How to use it
+## How to use it
 
 The note and task manager is very intuitive, all you have to do is launch the code and follow the terminal's indications according to the menu or the various requests
 
