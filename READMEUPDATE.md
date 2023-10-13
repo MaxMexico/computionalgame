@@ -40,7 +40,7 @@ Download the repositery from Github
 
 ## Techincal dependencies
 
-
+You do not need a special library for run this program only a python interpreter and a terminal. So you can use the program without worrying about installing any additional libraries or modules.
 
 ## Test plan
 
