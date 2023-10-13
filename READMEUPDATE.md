@@ -28,5 +28,6 @@ The note and task manager is very intuitive, all you have to do is launch the co
 ### Have fun !
 ## 🇲🇽 ¡Viva México! 🇲🇽
 
+![Mexican flag](https://github.com/MaxMexico/computionalgame/blob/08a504434ee7207e30b4fa1016b011464e39d99a/t%C3%A9l%C3%A9chargement.png)
 By MaxMexico 
 2023
