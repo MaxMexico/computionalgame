@@ -6,7 +6,7 @@ I have completely changed my plans! After some consideration, I found that the i
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to use it](#how-to-use-it)
-- [How the user execeute it](#how-does-the-user-execute-it)
+- [How the user execute it](#how-does-the-user-execute-it)
 - [Technical dependencies](#technical-dependencies)
 - [Test Plan](#Test-plan)
 
