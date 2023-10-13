@@ -6,6 +6,12 @@ I have completely changed my plans! After some consideration, I found that the i
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to use it](#how_to_use_it)
+- [How the user execeute it](#how_the_user_execute_it)
+- [Technical dependencies](#technical_dependencies)
+- [Test Plan](#Test_plan)
+
+
+
 
 ## Introduction
 
@@ -22,7 +28,24 @@ This project is a personal note and task manager designed to assist students in 
 
 ## How to use it
 
-The note and task manager is very intuitive, all you have to do is launch the code and follow the terminal's indications according to the menu or the various requests
+The note and task manager is very intuitive, follow the terminal's indications according to the menu or the various requests
+
+## How does the user execute it
+
+Download the repositery from Github
+
+-Change your current directory to the project folder: cd computionalgame
+-Execute the main Python script to start the Note and Task Manager: python main.py
+-Follow the on-screen menu options to interact with the manager and manage your notes and tasks
+
+## Techincal dependencies
+
+
+
+## Test plan
+
+
+
 
 ### Hope this manager will help as much as it helps me everyday 
 ### Have fun !
