@@ -6,7 +6,7 @@ I have completely changed my plans! After some consideration, I found that the i
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to use it](#how-to-use-it)
-- [How the user execeute it](#how-the-user-execute-it)
+- [How the user execeute it](#how-does-the-user-execute-it)
 - [Technical dependencies](#technical-dependencies)
 - [Test Plan](#Test-plan)
 
@@ -38,7 +38,7 @@ Download the repositery from Github
 -Execute the main Python script to start the Note and Task Manager: python main.py
 -Follow the on-screen menu options to interact with the manager and manage your notes and tasks
 
-## Techincal dependencies
+## Technical dependencies
 
 You do not need a special library for run this program only a python interpreter and a terminal. So you can use the program without worrying about installing any additional libraries or modules.
 
